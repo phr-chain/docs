@@ -13,4 +13,6 @@
 ## Ethereum
 
 
-## 
+## Encryption
+
+* [crypto-js](https://github.com/brix/crypto-js)
