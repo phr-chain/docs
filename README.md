@@ -9,6 +9,7 @@
 * [ipfs js lib](https://www.npmjs.com/package/ipfs-api/)
 * [IPFS & CORS](https://github.com/INFURA/tutorials/wiki/IPFS-and-CORS)
 * [Docker Intro by infura](https://github.com/INFURA/tutorials/wiki/Introduction-to-IPFS)
+* [Gateway](https://gateway.ipfs.io/ipfs/)
 
 ## Ethereum & IPFS
 
