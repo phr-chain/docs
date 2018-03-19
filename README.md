@@ -6,7 +6,7 @@
 
 ## IPFS
 
-
+* [ipfs java script lib](https://www.npmjs.com/package/ipfs-api/)
 ## Ethereum & IPFS
 
 
