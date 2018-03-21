@@ -3,7 +3,8 @@
 ## Standup
 
 ### Maha
-
+- Yesterday: Move ACL management from Smart contract to IPFS
+- Today: Working in front end
 ### Mahmoud
 
 ### Taher
