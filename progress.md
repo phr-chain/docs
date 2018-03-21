@@ -5,7 +5,7 @@
 ### Maha
 
 #### Yesterday
-
+* [x] Change Smart conract to define shared with me files
 * [x] Move ACL management from Smart contract to IPFS
 
 #### Today
