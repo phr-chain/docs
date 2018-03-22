@@ -1,3 +1,43 @@
+# 2018-03-22
+
+## Standup
+
+### Maha
+
+#### Yesterday
+* [x] Working in front end
+* [ ] 
+
+#### Today
+
+* [ ] TBD
+
+### Mahmoud
+
+#### Yesterday
+
+* [ ] ACL management
+* [x] finding an ECIES implementation
+
+#### Today
+
+* [ ] ACL management
+* [ ] Use ECIES to extchange symmetric keys
+
+### Taher
+
+#### Yesterday
+
+* [ ] Continue on the issue of file formats
+* [ ] Finalize the UX
+* [ ] 
+
+#### Today
+
+* [ ] TBD
+
+---------------------
+
 # 2018-03-21
 
 ## Standup
