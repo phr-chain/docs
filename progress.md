@@ -5,12 +5,13 @@
 ### Maha
 
 #### Yesterday
-* [x] Working in front end
-* [ ] 
+* [x] Logging page 
+* [x] Listing my files view 
 
 #### Today
 
-* [ ] TBD
+* [] Listing my shared files view
+* [] Listing files shared with me view
 
 ### Mahmoud
 
